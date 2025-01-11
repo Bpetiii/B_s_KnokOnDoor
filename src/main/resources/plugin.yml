@@ -1,0 +1,4 @@
+name: B_s_KnockOnDoor
+version: '${project.version}'
+main: online.biraw.b_s_knokondoor.B_s_KnockOnDoor
+api-version: '1.21'
